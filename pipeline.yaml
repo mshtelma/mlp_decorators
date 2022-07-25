@@ -43,7 +43,7 @@ steps:
     transformer_method: steps.transform.transformer_fn
   train:
     # Specifies the method that defines the estimator type and parameters to use for model training
-    estimator_method: steps.train.estimator_fn
+    estimator_method: 
   evaluate:
     # Sets performance thresholds that a trained model must meet in order to be eligible for
     # registration to the MLflow Model Registry
