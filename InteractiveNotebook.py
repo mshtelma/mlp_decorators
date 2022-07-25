@@ -14,7 +14,7 @@
 
 # COMMAND ----------
 
-#%pip install -U ../mlflow-1.26.2.dev0-py3-none-any.whl[pipelines] pandas-profiling
+# MAGIC %pip install -U mlflow-1.26.2.dev0-py3-none-any.whl[pipelines] pandas-profiling
 
 # COMMAND ----------
 
